@@ -1,0 +1,4 @@
+2022-02-17T18:40:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\tienda\wp-admin\includes\class-wp-filesystem-direct.php en la línea 66
+
+2022-02-17T18:51:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\tienda\wp-admin\includes\class-wp-filesystem-direct.php en la línea 173
+
